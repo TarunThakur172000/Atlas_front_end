@@ -1,3 +1,4 @@
+Thanks You Atlas for giving this chance to build this project 
 MovieHub – Full-Stack Movie Recommendation App
 Table of Contents
 
@@ -137,5 +138,10 @@ Frontend:
 /App.jsx
 /main.jsx
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////      what is Learn throug this project          /////////////////////////////////////////////////////////////////////////
+I had used AI for write repeated code for save time
+learn about postgre sql aas I have never worked on postgre SQL 
+during this project i regain my knowledge of JWT, bcrypt and system design.
 
-✅ Now anyone can clone, run, and test your project with these instructions.
+
