@@ -19,13 +19,17 @@ Folder Structure
 
 Project Overview
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Credential
+Admin ID : admin@moviehub.com
+Admin Password: Admin123
+
 MovieHub is a full-stack application that allows users to recommend movies, upvote/downvote, and comment. Admins can manage movies and comments, and view a Top 5 leaderboard based on votes.
 
-Live Demo
+Live Demo : https://reliable-churros-e1fdd8.netlify.app/
 
-Frontend (Admin / App): https://reliable-churros-e1fdd8.netlify.app/admin
-
-Backend API: https://atlas-back-end.onrender.com/api
+Backend API: https://github.com/TarunThakur172000/Atlas_Back_end
 
 Technologies
 
